@@ -1,1 +1,1 @@
-pip install streamlit pytube
+pip install pytube
